@@ -1,21 +1,18 @@
 <h1>
-  <span class="prefix"></span>
-  <span class="headline">[tktk Headline]</span>
+  <span class="headline">Building a Custom E-commerce Dashboard with AI</span>
 </h1>
 
 ## About
 
-tktk Write a short but descriptive summary of the content in this module.
+This module guides engineers and learners through building a custom e-commerce dashboard using AI-assisted tools. You'll rapidly prototype reusable UI components, integrate data visualization, and document standards, all while leveraging Copilot/Cursor and Shadcn/UI for productivity gains.
 
 ## Content
 
 | Lesson | Est. Delivery Time | Skills |
 | ------ |:------------------:| ------ |
-| [Setup](./setup/README.md)                          | -- | Set up the development environment. |
-| [Concepts](./concepts/README.md)                    | -- | tktk Skills to cover                |
-| [tktk Microlesson Name](./microlesson-01/README.md) | -- | tktk Skills to cover                |
-| [tktk Microlesson Name](./microlesson-02/README.md) | -- | tktk Skills to cover                |
-| **Total content**                                   | -- |                                     |
+| [Participant Guide](./participant-guide/README.md)  | 60 min | Build UI components, dashboards, use AI tools, document standards |
+| [Facilitator Guide](./facilitator-guide/README.md)  | 60 min | Lead demos, guide AI integration, support documentation |
+| **Total content**                                   | 60 min |                                     |
 
 ## References
 
@@ -25,32 +22,26 @@ tktk Write a short but descriptive summary of the content in this module.
 
 ### Prerequisites
 
-- tktk
-- tktk
-- tktk
+- Next.js, Shadcn/UI, Supabase, GitHub Copilot or Cursor
+- Basic React and JavaScript knowledge
+- Familiarity with AI-assisted development tools
 
 ### Starter code
 
-tktk If there is not a starter code repo that students will use to start this lesson, then this section and all of its content should be removed.
-
-🟢 [Starter code](https://git.generalassemb.ly/modular-curriculum-all-courses/tktk)
+🟢 [Starter code](https://git.generalassemb.ly/modular-curriculum-all-courses/building-a-custom-e-commerce-dashboard-starter)
 
 ### Solution code
 
-tktk If there is not solution code related to this module this section and all of its content should be removed.
-
-🏁 [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/tktk)
+🏁 [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/building-a-custom-e-commerce-dashboard-solution)
 
 ### Deployed site
 
-tktk If there is not a deployed site related to this module this section and all of its content should be removed.
-
-🌐 [Live site](https://generalassemb.ly/tktk)
+🌐 [Live site](https://generalassemb.ly/building-a-custom-e-commerce-dashboard)
 
 ### Course landing pages
 
-- [tktk-course-acronym - tktk Course Full Name](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/tktk-module-name/canvas-landing-pages/tktk-course-acronym.html)
-- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/tktk-module-name/canvas-landing-pages/fallback.html)
+- [E-COMM-AI - Building a Custom E-commerce Dashboard with AI](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/building-a-custom-e-commerce-dashboard/canvas-landing-pages/e-comm-ai.html)
+- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/building-a-custom-e-commerce-dashboard/canvas-landing-pages/fallback.html)
 
 ### Resources
 
