@@ -40,8 +40,8 @@ This module guides engineers and learners through building a custom e-commerce d
 
 ### Course landing pages
 
-- [E-COMM-AI - Building a Custom E-commerce Dashboard with AI](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/building-a-custom-e-commerce-dashboard/canvas-landing-pages/e-comm-ai.html)
-- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/building-a-custom-e-commerce-dashboard/canvas-landing-pages/fallback.html)
+- [E-COMM-AI - Building a Custom E-commerce Dashboard with AI](https://ga-curriculum.github.io/building-a-custom-e-commerce-dashboard/canvas-landing-pages/e-comm-ai.html)
+- [Fallback](https://ga-curriculum.github.io/building-a-custom-e-commerce-dashboard/canvas-landing-pages/fallback.html)
 
 ### Resources
 
@@ -53,4 +53,4 @@ This module guides engineers and learners through building a custom e-commerce d
 
 ---
 
-**Find a 👾 bug 👾 or have suggestions? [Let us know](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/module-feedback.html)!**
+**Find a 👾 bug 👾 or have suggestions? [Let us know](https://ga-curriculum.github.io/universal-resources-internal/module-feedback.html)!**
